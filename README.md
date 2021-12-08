@@ -14,3 +14,19 @@ The main notebooks that contain the relevant methods are:
 All other documents are supporting/unnecessary. 
 
 To run documents, start at top and work your way down :)
+
+Contributions:
+
+Evan
+- ExtremelyScuffedMethod.ipynb
+- GarfieldClassifier.ipynb
+- SVMClassifier.ipynb
+
+Greg
+- Handwriting_Recoginition_Using_Zoning.ipynb
+
+Sara
+- MLP_image_recognition.ipynb
+
+Jonathan
+- Convolutional_Neural_Network.ipynb
